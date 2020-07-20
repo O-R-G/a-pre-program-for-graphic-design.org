@@ -1,0 +1,6 @@
+.DS_Store
+#.htaccess
+.gitignore~
+*.mp4
+open-records/generator
+
