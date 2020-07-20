@@ -1,5 +1,6 @@
 .DS_Store
 #.htaccess
+.htpasswd
 .gitignore~
 *.mp4
 open-records/generator
