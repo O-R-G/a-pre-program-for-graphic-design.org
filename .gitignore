@@ -3,5 +3,5 @@
 .htpasswd
 .gitignore~
 *.mp4
-open-records/generator
+open-records-generator
 
